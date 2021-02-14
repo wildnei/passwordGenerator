@@ -1,9 +1,16 @@
 # 03 JavaScript: Password Generator
 
+The password generator will auto generate a random password according to the criteria that you choose. 
+
 ## Link for deployed application
 
 https://wildnei.github.io/passwordGenerator/
 
+
+## Technologies Used
+- CSS
+- HTML
+- JavaScript
 
 ## User Story
 
@@ -39,4 +46,8 @@ SO THAT I can create a strong password that provides greater security
 ![Table](./img/fromCharCode.PNG)
 
 * Used Const with all special characters defined "!@#$%^&*(){}[]=<>/.,"
+
+## Contact
+
+wildneisuane@gmail.com
 
