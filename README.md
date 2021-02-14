@@ -1,5 +1,10 @@
 # 03 JavaScript: Password Generator
 
+## Link for deployed application
+
+https://wildnei.github.io/passwordGenerator/
+
+
 ## User Story
 
 ```
